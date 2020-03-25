@@ -12,3 +12,7 @@
 - Types of Machine Learning Systems
 - Main Challenges of Machine Learning
 - Testing and Validating
+
+### [2. End-to-End Machine Learning Project](./ch2)
+- Working with Real Data
+- Look at the Big Picture
