@@ -17,3 +17,4 @@
 - Working with Real Data
 - Look at the Big Picture
 - Get the Data
+- Discover and Visualize the Data to Gain Insights
