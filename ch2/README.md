@@ -4,3 +4,4 @@
 - [Get the Data](./get_the_data.ipynb)
 - [Discover and Visualize the Data to Gain Insights](./discover_and_visualize_the_data_to_gain_insights.ipynb)
 - [Prepare the Data for Machine Learning Algorithms](./prepare_the_data_for_machine_learning_algorithms.ipynb)
+- [Select and Train a Model](./select_and_train_a_model.ipynb)
