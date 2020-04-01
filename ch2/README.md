@@ -5,3 +5,4 @@
 - [Discover and Visualize the Data to Gain Insights](./discover_and_visualize_the_data_to_gain_insights.ipynb)
 - [Prepare the Data for Machine Learning Algorithms](./prepare_the_data_for_machine_learning_algorithms.ipynb)
 - [Select and Train a Model](./select_and_train_a_model.ipynb)
+- [Fine-Tune Your Model](./fine_tune_your_model.ipynb)

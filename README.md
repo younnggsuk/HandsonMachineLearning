@@ -20,3 +20,4 @@
 - Discover and Visualize the Data to Gain Insights
 - Prepare the Data for Machine Learning Algorithms
 - Select and Train a Model
+- Fine-Tune Your Model
