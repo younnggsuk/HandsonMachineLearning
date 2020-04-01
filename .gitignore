@@ -3,3 +3,6 @@
 
 # Datasets
 datasets/
+
+# Saved models
+saved_models
