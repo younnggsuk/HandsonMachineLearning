@@ -15,3 +15,4 @@
 
 ### [3. Classification](./ch3)
 - MNIST
+- Training a Binary Classifier
