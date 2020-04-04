@@ -13,11 +13,5 @@
 - Main Challenges of Machine Learning
 - Testing and Validating
 
-### [2. End-to-End Machine Learning Project](./ch2)
-- Working with Real Data
-- Look at the Big Picture
-- Get the Data
-- Discover and Visualize the Data to Gain Insights
-- Prepare the Data for Machine Learning Algorithms
-- Select and Train a Model
-- Fine-Tune Your Model
+### [3. Classification](./ch3)
+- MNIST
