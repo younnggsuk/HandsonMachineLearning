@@ -27,3 +27,4 @@
 - Training a Binary Classifier
 - Performace Measures
 - Multiclass Classification
+- Error Analysis
