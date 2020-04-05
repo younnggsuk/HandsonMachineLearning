@@ -28,3 +28,5 @@
 - Performace Measures
 - Multiclass Classification
 - Error Analysis
+- Multilabel Classification
+- Multioutput Classification

@@ -4,3 +4,5 @@
 - [Performace Measures](./performance_measures.ipynb)
 - [Multiclass Classification](./multiclass_classification.ipynb)
 - [Error Analysis](./error_analysis.ipynb)
+- [Multilabel Classification](./multilabel_classification.ipynb)
+- [Multioutput Classification](./multioutput_classification.ipynb)
