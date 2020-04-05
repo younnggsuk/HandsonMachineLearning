@@ -26,3 +26,4 @@
 - MNIST
 - Training a Binary Classifier
 - Performace Measures
+- Multiclass Classification
