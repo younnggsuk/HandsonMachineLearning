@@ -30,3 +30,6 @@
 - Error Analysis
 - Multilabel Classification
 - Multioutput Classification
+
+### [4. Training Models](./ch4)
+- Linear Regression
