@@ -33,3 +33,4 @@
 
 ### [4. Training Models](./ch4)
 - Linear Regression
+- Gradient Descent
