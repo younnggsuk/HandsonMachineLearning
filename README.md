@@ -35,3 +35,4 @@
 - Linear Regression
 - Gradient Descent
 - Polynomial Regression
+- Learning Curves
