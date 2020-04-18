@@ -38,3 +38,6 @@
 - Learning Curves
 - Regularized Linear Models
 - Logistic Regression
+
+### [5.Support Vector Machines](./ch5)
+- Linear SVM Classification
