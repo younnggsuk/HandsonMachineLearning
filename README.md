@@ -41,3 +41,4 @@
 
 ### [5.Support Vector Machines](./ch5)
 - Linear SVM Classification
+- Nonlinear SVM Classification
