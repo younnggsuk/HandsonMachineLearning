@@ -1,0 +1,10 @@
+## 6. Decision Trees
+- [Training and Visualizing a Decision Tree](./training_and_visualizing_a_decision_tree.ipynb)
+- [Making Predictions](./making_predictions.ipynb)
+- [Estimating Class Probabilities](./estimating_class_probabilities.ipynb)
+- [The CART Training Algorithm](./the_CART_training_algorithm.ipynb)
+- [Computational Complexity](./computational_complexity.ipynb)
+- [Gini Impurity or Entropy?](./gini_impurity_or_entropy.ipynb)
+- [Regularization Hyperparameters](regularization_hyperparameters.ipynb)
+- [Regression](./regression.ipynb)
+- [Instability](./instability.ipynb)
