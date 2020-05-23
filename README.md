@@ -55,3 +55,6 @@
 - Regularization Hyperparameters
 - Regression
 - Instability
+
+### [7. 앙상블 학습과 랜덤 포레스트 (여기서부터 번역본으로 공부)](./ch7)
+- 투표기반 분류기
